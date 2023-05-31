@@ -5,3 +5,5 @@ Python : I've been watching the videos that my mentor has given me.I finished th
 Numpy : I've have completed the Numpy videos, picked up a few new skills, and developed a grasp of array manipulation and Python's numerical processing.
 
 OpenCv :  I am currently learning about OpenCV and have learned a little about image processing and object detection.Also i have gained some understandings about object detection and tracking.
+
+Mentors : 1) Suyash Waghmare 2) Prajyot Chakre 3) Chaitanya Sannake 
